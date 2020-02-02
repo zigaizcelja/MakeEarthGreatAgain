@@ -4,5 +4,8 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Ziga.unity
+    guid: b772123560af9234ea1d3cd3e1cff5c0
   m_configObjects: {}
